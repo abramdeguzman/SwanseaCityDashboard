@@ -6,6 +6,7 @@ This project focuses on **clean data modeling (star schema)**, **Power Query tra
 ---
 
 ## 📌 What This Dashboard Shows
+<img width="2190" height="1232" alt="Swansea City Thumbnail" src="https://github.com/user-attachments/assets/68162a5a-b71e-438b-857e-93cb6fecfb94" />
 
 ### ✅ High-Level KPIs
 - Matches Played
